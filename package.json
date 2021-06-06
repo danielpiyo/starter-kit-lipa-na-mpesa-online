@@ -1,5 +1,5 @@
 {
-  "name": "starket-kit-lipa-na-mpesa-online",
+  "name": "lipa-na-mpesa-online",
   "version": "1.0.0",
   "description": "starter kit for lipa na mpesa online",
   "main": "index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "starter-kit-lipa-na-mpesa-online"
+    "url": "lipa-na-mpesa-online"
   },
   "author": "mwangikibui",
   "license": "MIT",
